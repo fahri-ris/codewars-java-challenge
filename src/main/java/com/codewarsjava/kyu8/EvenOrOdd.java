@@ -10,6 +10,7 @@ public class EvenOrOdd {
         System.out.println(result);
     }
 
+//    Melakukan print jika angka ganjil atau genap
     public static String cekEvenOdd(int number){
 //        String result;
 //        if(number % 2 == 0){

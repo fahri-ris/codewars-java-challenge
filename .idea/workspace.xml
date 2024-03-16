@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="476dc47c-93da-4a53-80ee-4b7e3561d24b" name="Changes" comment="struktur">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewarsjava/kyu8/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewarsjava/kyu8/CountByX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewarsjava/kyu8/SumArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codewarsjava/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CountByX.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SumArrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,7 +76,7 @@
       <workItem from="1710225098561" duration="316000" />
       <workItem from="1710242901505" duration="94000" />
       <workItem from="1710243007041" duration="1720000" />
-      <workItem from="1710572399981" duration="1390000" />
+      <workItem from="1710572399981" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="struktur">
       <option name="closed" value="true" />
